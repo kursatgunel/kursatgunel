@@ -1,6 +1,5 @@
 ### Hi there 👋, Kürşat Günel
 #### Backend Developer
-[Backend Developer]
 
 Skills: Java Spring Boot/ React JS / MySQL 
 
