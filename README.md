@@ -1,6 +1,6 @@
 ### Hi there 👋, Kürşat Günel
 #### Backend Developer
-![Backend Developer](https://i.hizliresim.com/2fp6vxn.png)
+![Backend Developer]
 
 Skills: Java / Spring Framework/ React JS / MySQL
 
