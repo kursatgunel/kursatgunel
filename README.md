@@ -1,7 +1,5 @@
-### Hi there 👋, Kürşat Günel
-#### Backend Developer
-
-Skills: Java Spring Boot/ React JS / MySQL 
+### Hi there, Kürşat Günel
+####  Computer Engineering Student
 
 - I’m currently working on a Spring Boot
 - I’m currently learning advanced concepts in Spring Security, Microservices architecture, and Cloud-native development to deepen my expertise in backend development. 
